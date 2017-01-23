@@ -1,0 +1,38 @@
+#claveTemplateHeader{
+  font-family: Arial;
+  size: 4;
+  margin-bottom: 0in;
+  margin-bottom: .0001pt;
+  line-height: 30pt;
+  background: #19475B;
+  font-size: 12pt;
+  color: white;
+  font-weight: bold;
+}
+.claveWarrantyListing{
+  margin-top: 12.0pt;
+  margin-right: 0in;
+  margin-bottom: 12.0pt;
+  margin-left: .5in;
+  mso-add-space: auto;
+  text-indent: -.25in;
+  line-height: 14.4pt;
+  mso-list: l0 level1 lfo1;
+}
+.claveLinkStyles{
+  margin-top: 12.0pt;
+  margin-right: 0in;
+  margin-bottom: 12.0pt;
+  margin-left: 0in;
+  line-height: 14.4pt;
+  font-size: 16pt;
+  color: rgb(91, 155, 213);
+}
+.clavePhone{
+  margin-bottom: 0in;
+  margin-bottom: 0.0001pt;
+  line-height: normal;
+  font-size: 16pt;
+  color: rgb(91, 155, 213);
+  font-weight: bold;
+}
